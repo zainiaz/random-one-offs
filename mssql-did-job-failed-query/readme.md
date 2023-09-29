@@ -1,0 +1,1 @@
+This query identifies if a job failed in the last 2 hours in MSSQL if you know the job ID. Useful for alerts and monitoring.
